@@ -43,3 +43,12 @@ CREATE TABLE likes (
   -- allows us to not add a duplicate user_id and photo_id; primary key constraint
 );
 -- no id for likes, because we're not gonna refer to likes anywhere else
+
+CREATE TABLE follows (
+  follower_id INTEGER NOT NULL,
+  followee_id INTEGER NOT NULL,
+  created_at TIMESTAMP DEFAULT NOW(),
+  FOREIGN KEY (follower_id) REFERENCES users(id),
+  FOREIGN KEY (followee_id) REFERENCES users(id),
+  PRIMARY KEY (follower_id , followee_id)
+);
