@@ -10,10 +10,10 @@ CREATE TABLE users (
   created_at TIMESTAMP DEFAULT NOW()
 )
 
-INSERT INTO users (username) VALUES
-  ('BlueCat'),
-  ('CharlieBrown'),
-  ('ColtSteele');
+-- INSERT INTO users (username) VALUES
+--   ('BlueCat'),
+--   ('CharlieBrown'),
+--   ('ColtSteele');
 
 CREATE TABLE photos (
   id INTEGER AUTO_INCREMENT PRIMARY KEY,
