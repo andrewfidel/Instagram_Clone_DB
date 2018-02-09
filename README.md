@@ -1,8 +1,5 @@
 # Instagram Clone DB
 
-&nbsp;
-&nbsp;
-
 
 
 # Product Name
