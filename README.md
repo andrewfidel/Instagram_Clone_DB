@@ -1,1 +1,1 @@
-# Instagram_Clone_DB
+# Instagram Clone DB
