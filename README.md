@@ -1,7 +1,11 @@
 # Instagram Clone DB
-> Project emulates the database backend of well-known photo-sharing mobile/desktop application, Instagram.
+> Project emulates relational database backend of well-known photo-sharing mobile/desktop application, Instagram.
 
-## Development Tools
+## Project Details
+* Relational database schema designed with ER tool. 
+⋅⋅⋅ Schema entites include: users, photos, comments, likes, hashtag tables: tags, photo_tags
+* 
+
 ## Meta
 Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
 Distributed under the XYZ license. See ``LICENSE`` for more information.
