@@ -8,6 +8,6 @@
 * Implementation uses [MYSQL](https://www.mysql.com/)
 
 ## Meta
-[connect with me on Linkedin](www.linkedin.com/in/andrewfidel/) <br />
+[Connect with me on Linkedin](www.linkedin.com/in/andrewfidel/) <br />
 [Other projects & Samples](https://github.com/drewfidizzle)
 
