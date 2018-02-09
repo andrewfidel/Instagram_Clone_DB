@@ -5,7 +5,7 @@
 * Relational database schema designed with ER tool. 
 
    Schema entites include: users, photos, comments, likes, hashtag tables: tags, photo_tags
-* Implementation of database uses [MYSQL](https://www.mysql.com/)
+* Implementation uses [MYSQL](https://www.mysql.com/)
 
 ## Meta
 [Add me on Linkin](www.linkedin.com/in/andrewfidel/) <br />
