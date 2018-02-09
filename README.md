@@ -1,6 +1,7 @@
 # Instagram Clone DB
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
+&nbsp;
 
 
 
