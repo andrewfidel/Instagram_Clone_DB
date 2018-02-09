@@ -8,6 +8,6 @@
 * Implementation of database uses [MYSQL](https://www.mysql.com/)
 
 ## Meta
-[Add me on Linkin](www.linkedin.com/in/andrewfidel/)
+[Add me on Linkin](www.linkedin.com/in/andrewfidel/) <br />
 [Other projects & Samples](https://github.com/drewfidizzle)
 
